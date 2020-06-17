@@ -1,0 +1,2 @@
+rootProject.name='MyDynamicControl'
+include ':app'

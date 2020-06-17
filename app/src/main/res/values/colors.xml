@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#003054</color>
+    <color name="colorAccent">#ff4081</color>
+
+    <!--grid için-->
+
+    <color name="colorGray">#bdbdbd</color>
+
+    <color name="colorwhite">#fdfdfa</color>
+
+    <color name="colorRed">#ff0000</color>
+
+    <color name="colorOrange">#f7931e</color>
+    <color name="colorBlue1">#00aeef</color>
+    <color name="colorBlue2">#b9e5fb</color>
+    <color name="colorBlue3">#3AB4FF</color>
+
+    <color name="colorYellow">#fcec11</color>
+
+</resources>
