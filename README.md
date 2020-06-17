@@ -13,7 +13,7 @@ Satır ve sütun bilgisinin üzerine tıklanıldığında item mesaj olarak gör
 
 3--Her bir kutu üzerinde bir adet Textview ve Button kontrolü vardır, butona tıklanıldığında kutuları kullanıcı gizleyebilmektedir tekrar kutunun olduğu yere tıkladığında kutu VISIBLE olmaktadır, kutu üzerindeki item textview kontrolüne yansıtılmıştır
 
-![image](https://user-images.githubusercontent.com/35520725/84908711-79faab80-b0bd-11ea-8980-4940eb9bc953.png)
+![image](https://user-images.githubusercontent.com/35520725/84909074-e9709b00-b0bd-11ea-9f06-6d2e327ecfed.png)
 
 5-Kutunun en dış etiketi RelativeLayout olup, uzun tıklanıldığında detay sayfasına kullanıcı yönlendirilmektedir
  
