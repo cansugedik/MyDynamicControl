@@ -16,5 +16,7 @@ Satır ve sütun bilgisinin üzerine tıklanıldığında item mesaj olarak gör
 ![image](https://user-images.githubusercontent.com/35520725/84909074-e9709b00-b0bd-11ea-9f06-6d2e327ecfed.png)
 
 5-Kutunun en dış etiketi RelativeLayout olup, uzun tıklanıldığında detay sayfasına kullanıcı yönlendirilmektedir
+
+![image](https://user-images.githubusercontent.com/35520725/84909143-0016f200-b0be-11ea-9bbb-d84770b8b1ec.png)
  
 
