@@ -4,7 +4,7 @@ Uygulama istenilen satır ve sütun bilgisinde ekranda kontrollerin oluşturulma
 
 1-Açılan ekranda  satır ve sütun bilgisi girmeniz istenmekte, oluştur butonu ile aşağıdaki ekran görüntüsü oluşmaktadır
 
-2- ![image](https://user-images.githubusercontent.com/35520725/84903363-a8c15380-b0b6-11ea-99d6-f7d49d0374da.png)
+![image](https://user-images.githubusercontent.com/35520725/84903363-a8c15380-b0b6-11ea-99d6-f7d49d0374da.png)
 
 2- Ayrı ayrı üst, sol ve orta kısım recyclerview dan oluşmuştur
 Satır ve sütun bilgisinin üzerine tıklanıldığında item mesaj olarak görebilirsiniz
@@ -17,6 +17,6 @@ Satır ve sütun bilgisinin üzerine tıklanıldığında item mesaj olarak gör
 
 5-Kutunun en dış etiketi RelativeLayout olup, uzun tıklanıldığında detay sayfasına kullanıcı yönlendirilmektedir
 
-![image](https://user-images.githubusercontent.com/35520725/84909143-0016f200-b0be-11ea-9bbb-d84770b8b1ec.png)
+![image](https://user-images.githubusercontent.com/35520725/84909369-4409f700-b0be-11ea-974c-316d76edd5a6.png)
  
 
